@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img" aria-labelledby="title desc">
+  <title id="title">Fabio — Computer Engineering at IPB</title>
+  <desc id="desc">Discord tools, web projects and programming fundamentals.</desc>
+  <rect width="1000" height="210" rx="12" fill="#161b22"/>
+  <rect x="38" y="38" width="4" height="134" rx="2" fill="#58a6ff"/>
+  <text x="68" y="65" font-family="Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="2.4" fill="#9da7b3">COMPUTER ENGINEERING / IPB</text>
+  <text x="65" y="130" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="650" letter-spacing="-2" fill="#f0f6fc">Fabio<tspan fill="#58a6ff">.</tspan></text>
+  <text x="68" y="169" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#9da7b3">Discord tools, web projects &amp; programming fundamentals.</text>
+  <path d="M860 70 h-24 v70 h24 M904 70 h24 v70 h-24" fill="none" stroke="#30363d" stroke-width="3"/>
+  <path d="M894 72 l-23 66" fill="none" stroke="#58a6ff" stroke-width="3"/>
+</svg>
